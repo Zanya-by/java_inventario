@@ -57,7 +57,7 @@ public class Product {
 		this.active = active;
 	}
 	
-	public double getInventotyValue()
+	public double getInventoryValue()
 	{
 		return this.price * this.qtdInStock;
 	}
